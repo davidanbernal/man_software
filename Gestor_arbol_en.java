@@ -51,12 +51,12 @@ public class Gestor_arbol {
 if(opcion==1){//MENU USUARIOS
           
      
-      System.out.println("----Menu Usuarios---- ");
-      System.out.println("1 - Agregar usuario ");
-      System.out.println("2 - Listar usuarios ");
-      System.out.println("3 - Borrar usuario ");
-      System.out.println("4 - Buscar usuario ");    
-      System.out.println("5 - Salir del programa ");
+      System.out.println("----Users Menu---- ");
+      System.out.println("1 - Add user ");
+      System.out.println("2 - List users ");
+      System.out.println("3 - Delete users ");
+      System.out.println("4 - Search User ");    
+      System.out.println("5 - Exit");
       m1=opciones.nextInt();
       
             
