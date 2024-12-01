@@ -43,6 +43,7 @@ public class Gestor_arbol {
       System.out.println("1 - Menu Usuarios ");
       System.out.println("2 - Menu Libros ");
       System.out.println("3 - Menu Prestamos ");
+      System.out.println("4 - Menu venta ");
       System.out.println("5 - Salir ");
       opcion=opciones.nextInt();
            
