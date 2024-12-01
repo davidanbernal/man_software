@@ -196,7 +196,7 @@ Nodos Raiz;
                reemplazo.HijoDer=nodoReemp.HijoDer;
             }
             
-            System.out.println("El nodo Reemplazo es  "+ reemplazo);
+            System.out.println("El nodo de reemplazo es:  "+ reemplazo);
             
             return reemplazo;
         }
